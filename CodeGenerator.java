@@ -350,5 +350,4 @@ public class CodeGenerator
   private static void addFunctionJump( int lineNumber, String functionName, String comment ){
     functionCallList.add( lineNumber + "/" + functionName + "/" + comment );
   }
->>>>>>> 1bbf3646a40b39e76cdff48497cbacee0e3dd86f
 }
